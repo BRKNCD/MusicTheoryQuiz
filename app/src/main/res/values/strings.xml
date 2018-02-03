@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MusicTheoryQuiz</string>
+    <string name="questionScale">Which scale or scales are represented in the picture?</string>
+    <string name="cadenceQuestion">Which cadence is a progression from V (dominant) to I (tonic)?</string>
+    <string name="BeethovenQuestion">Which composer made a large use of this cadence to become one of his most characteristic and recognisable musical thumbprints?</string>
+    <string name="rightAnswer">Beethoven</string>
+    <string name="scaleQuestion">Which scale is formed with the interval sequence: whole, whole, half, whole, whole, whole, half?</string>
+    <string name="scaleQuestion2">Which interval sequence forms the Harmonic Minor scale?</string>
+    <string name="answerScaleQuestion2">W H W W H WH H</string>
+    <string name="yourScore">Your score:</string>
+    <string name="newGame">New Game</string>
+</resources>
